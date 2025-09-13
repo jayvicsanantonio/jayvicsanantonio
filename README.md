@@ -10,7 +10,8 @@ When I’m not coding, I’m usually chasing cats off my keyboard, walking for P
 
 ## 🛠️ Tech Stack & Tools
 
-Core web  
+Core web
+<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,7 +19,8 @@ Core web
 ![Vite](https://img.shields.io/badge/Vite-9146FF?style=for-the-badge&logo=vite&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
-APIs & data  
+APIs & data
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
 ![Hono](https://img.shields.io/badge/Hono-ff6b6b?style=for-the-badge)
@@ -26,7 +28,8 @@ APIs & data
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Upstash%20Redis-00E59B?style=for-the-badge&logo=redis&logoColor=000)
 
-Quality & DevEx  
+Quality & DevEx
+<br/>
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)
@@ -34,13 +37,15 @@ Quality & DevEx
 ![Biome](https://img.shields.io/badge/Biome-2F855A?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
 
-AI & agents  
+AI & agents
+<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-4A5568?style=for-the-badge&logo=openai&logoColor=fff)
 ![LangChain](https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-0C7A5E?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
 
-Mobile & graphics  
+Mobile & graphics
+<br/>
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=fff)
 ![Babylon.js](https://img.shields.io/badge/Babylon.js-222?style=for-the-badge)
@@ -96,16 +101,8 @@ Mobile & graphics
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/jayvicsanantonio/cogni-critter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=cogni-critter&theme=radical" alt="cogni-critter" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jayvicsanantonio/extensions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=extensions&theme=radical" alt="extensions" />
-      </a>
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -128,6 +125,7 @@ Mobile & graphics
 
 ## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvicsanantonio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvicsanantonio&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jayvicsanantonio&theme=radical&hide_border=true)
 
@@ -163,3 +161,11 @@ Mobile & graphics
 ![Profile Views](https://komarev.com/ghpvc/?username=jayvicsanantonio&color=blueviolet)
 
 ---
+
+### Optional extras to make this pop even more
+
+- Add “Latest Posts” from your blog with a simple GitHub Action that updates a section from an RSS feed.
+- Pin 2–3 more repos using the pin cards above (e.g., `cogni-critter`, `extensions`) for breadth.
+- Add a “Currently hacking on” section with short‑term goals or a roadmap image.
+- Include Lighthouse/Performance badges for `jayvicsanantonio.dev` (you already run Lighthouse CI).
+- Embed a short GIF demo for one project (TracknStick or UIgen) to show UX polish.
