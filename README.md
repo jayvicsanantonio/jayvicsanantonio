@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Jayvic — Full‑Stack Web Developer, Builder, and Curious Human
+# Hey, I’m Jayvic 👋
 
 Originally from the Philippines, now thriving in the San Francisco Bay Area. I’ve spent 10+ years shipping software across scrappy startups, hackathons, and a global media/tech company. You could say JavaScript is my coding soulmate — I love how it flexes from delightful UI to fast, reliable APIs.
 
