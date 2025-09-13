@@ -66,6 +66,18 @@ Mobile & graphics
 <table>
   <tr>
     <td>
+      <a href="https://github.com/jayvicsanantonio/jayvicsanantonio.dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=jayvicsanantonio.dev&theme=radical" alt="jayvicsanantonio.dev" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jayvicsanantonio/web-development-hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=web-development-hub&theme=radical" alt="web-development-hub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/jayvicsanantonio/tracknstick.com">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=tracknstick.com&theme=radical" alt="tracknstick.com" />
       </a>
@@ -90,28 +102,38 @@ Mobile & graphics
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/jayvicsanantonio/uigen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=uigen&theme=radical" alt="uigen" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/jayvicsanantonio/ai-hallucination-detector">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=ai-hallucination-detector&theme=radical" alt="ai-hallucination-detector" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/jayvicsanantonio/task-relay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=task-relay&theme=radical" alt="task-relay" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/jayvicsanantonio/sync-flow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=sync-flow&theme=radical" alt="sync-flow" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jayvicsanantonio/extensions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=extensions&theme=radical" alt="extensions" />
+      </a>
+    </td>
   </tr>
 </table>
 
 - TracknStick (web + API): Modern habit tracking with a React/Vite app and a Cloudflare Workers API (Hono, Zod, Vitest, Miniflare, CI deploys).
 - Humanity Passport: Next.js + Prisma project that analyzes GitHub repos with LLMs and validated structured outputs.
 - AI Timeline Automation: A scheduled GitHub Actions system that collects, dedupes, and PRs weekly AI news.
-- UIgen: AI‑assisted UI prototyping—tests for JSX transforms, import maps, and safe preview generation.
+- Portfolio (jayvicsanantonio.dev): Next.js site with Lighthouse CI, perf budgets, and typed content.
+- Web Development Hub: Next.js on Cloudflare via OpenNext; forms, UI primitives, and deployment scripts.
 - AI Hallucination Detector: A monorepo with content processing pipelines aimed at enterprise‑grade detection.
-- Bonus: Cogni‑Critter—React Native + TensorFlow.js exploration of on‑device inference and model recovery patterns.
+- Task Relay: Lightweight Node/Hono API with CI and coverage for task syncing.
+- Sync Flow: Typed Hono service using Upstash/Redis and Zod validators for reliable flow orchestration.
 
 ---
 
@@ -123,11 +145,47 @@ Mobile & graphics
 
 ---
 
+## 🔬 Currently Hacking On
+
+- TracknStick: Offline‑friendly sync, progressive web app polish, and richer data viz.
+- Humanity Passport: Safer LLM analysis with stricter schema validation and better failure handling.
+- UIgen: Faster JSX/TS transforms and sandboxed preview reliability for complex imports.
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title Current Focus (Next 6 Weeks)
+    section TracknStick
+    Offline sync & PWA      :active,  t1, 2025-09-10, 14d
+    Data viz improvements   :         t2, after t1, 10d
+    section Humanity Passport
+    LLM guardrails & schema :active,  t3, 2025-09-12, 14d
+    CI evaluation dataset   :         t4, after t3, 10d
+    section UIgen
+    Import-map hardening    :active,  t5, 2025-09-15, 10d
+    Preview perf tuning     :         t6, after t5, 10d
+```
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvicsanantonio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvicsanantonio&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jayvicsanantonio&theme=radical&hide_border=true)
+
+---
+
+## ⚡ Lighthouse & Performance (jayvicsanantonio.dev)
+
+[![Lighthouse CI](https://github.com/jayvicsanantonio/jayvicsanantonio.dev/actions/workflows/lighthouse-ci.yml/badge.svg)](https://github.com/jayvicsanantonio/jayvicsanantonio.dev/actions/workflows/lighthouse-ci.yml)
+
+![Performance](https://img.shields.io/badge/Performance-Tracked-blue?style=for-the-badge&logo=lighthouse)
+![Accessibility](https://img.shields.io/badge/Accessibility-Tracked-blue?style=for-the-badge&logo=lighthouse)
+![Best%20Practices](https://img.shields.io/badge/Best%20Practices-Tracked-blue?style=for-the-badge&logo=lighthouse)
+![SEO](https://img.shields.io/badge/SEO-Tracked-blue?style=for-the-badge&logo=lighthouse)
+
+• Run live analysis: https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fjayvicsanantonio.dev
 
 ---
 
