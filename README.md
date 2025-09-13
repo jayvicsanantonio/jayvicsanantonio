@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="540" height="304" src="https://github.com/user-attachments/assets/c3242c92-7083-47e6-be4c-2f484a3285c9">
+</p>
+
+
 I am Jayvic San Antonio, and I am a full stack web developer from the Philippines, now building in the San Francisco Bay Area. For more than a decade, I have shipped products across hackathons, a startup I co founded, and a global media and tech company. JavaScript has been my constant companion through it all, from crafting friendly, fast UIs in React and Next.js, to designing reliable, typed APIs with Node and Cloudflare Workers.
 
 Lately, my curiosity has been focused on AI. I experiment with agents and workflow or repo analysis, and I always add guardrails. I use typed schemas and structured outputs, so results are trustworthy. I wire tests into CI, and treat reliability as a feature. Small experiments turn into maintainable systems that real teams can build on.
