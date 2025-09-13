@@ -107,20 +107,8 @@ Mobile & graphics
       </a>
     </td>
     <td>
-      <a href="https://github.com/jayvicsanantonio/task-relay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=task-relay&theme=radical" alt="task-relay" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/jayvicsanantonio/sync-flow">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=sync-flow&theme=radical" alt="sync-flow" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jayvicsanantonio/extensions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayvicsanantonio&repo=extensions&theme=radical" alt="extensions" />
       </a>
     </td>
   </tr>
@@ -219,11 +207,3 @@ gantt
 ![Profile Views](https://komarev.com/ghpvc/?username=jayvicsanantonio&color=blueviolet)
 
 ---
-
-### Optional extras to make this pop even more
-
-- Add “Latest Posts” from your blog with a simple GitHub Action that updates a section from an RSS feed.
-- Pin 2–3 more repos using the pin cards above (e.g., `cogni-critter`, `extensions`) for breadth.
-- Add a “Currently hacking on” section with short‑term goals or a roadmap image.
-- Include Lighthouse/Performance badges for `jayvicsanantonio.dev` (you already run Lighthouse CI).
-- Embed a short GIF demo for one project (TracknStick or UIgen) to show UX polish.
