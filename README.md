@@ -8,7 +8,7 @@ I am Jayvic San Antonio, and I am a full stack web developer from the Philippine
 
 Lately, my curiosity has been focused on AI. I experiment with agents and workflow or repo analysis, and I always add guardrails. I use typed schemas and structured outputs, so results are trustworthy. I wire tests into CI, and treat reliability as a feature. Small experiments turn into maintainable systems that real teams can build on.
 
-Tools I use every day include JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Cloudflare Workers, Hono, Prisma, Knex, SQLite, Upstash Redis, Zod, Vitest, Jest, Testing Library, ESLint, Biome, GitHub Actions, OpenAI, LangChain, Clerk, Miniflare, Wrangler, React Native, Expo, Babylon.js, Radix UI, Framer Motion, SWR, Axios, Tailwind Merge, Lighthouse CI, and more. I keep my skills sharp, and I stay close to the latest tech, so I can choose the right tool with confidence.
+Tools I use every day include JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Cloudflare Workers, Hono, Vercel, Claude Code, Cursor, Warp.dev and more. I keep my skills sharp, and I stay close to the latest tech, so I can choose the right tool with confidence.
 
 I care about craft and people. I value clear, readable code, thoughtful UX, and collaborative, inclusive teams. If you want someone who learns fast, stays current, and can take a product from idea to shipped, while sweating details and performance, I would love to connect.
 
