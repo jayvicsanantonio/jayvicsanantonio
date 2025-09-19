@@ -12,4 +12,4 @@ Tools I use every day include JavaScript, TypeScript, React, Next.js, Vite, Tail
 
 I care about craft and people. I value clear, readable code, thoughtful UX, and collaborative, inclusive teams. If you want someone who learns fast, stays current, and can take a product from idea to shipped, while sweating details and performance, I would love to connect.
 
-You can reach me at codes@jayvicsanantonio.dev, and you can see more of my work at https://jayvicsanantonio.dev. When I am not coding, I am herding cats, getting steps in Pokémon Go, and brewing late night coffee.
+You can reach me at codes@jayvicsanantonio.dev, and you can see more of my work at https://jayvicsanantonio.dev. When I'm not coding, I'm getting my steps in Pokémon Go, collecting Star Wars Black Series figures, catching up on MCU movies and shows, and listening to Ed Sheeran while I read up on whatever's next.
